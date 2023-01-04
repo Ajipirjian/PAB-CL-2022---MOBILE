@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyAnimeList</string>
+    <string name="judul">judul</string>
+    <string name="genre">genre</string>
+    <string name="detail">detail</string>
+    <string name="info">info</string>
+
+    <string name="about">About</string>
+    <string name="no_wa">NO. WA :</string>
+    <string name="kelas">KELAS  :</string>
+    <string name="nim">NIM    :</string>
+    <string name="aji_pirjian">AJI PIRJIAN</string>
+    <string name="_10121095">10121095</string>
+    <string name="if_3">IF - 3</string>
+    <string name="_089663661772">089663661772</string>
+</resources>

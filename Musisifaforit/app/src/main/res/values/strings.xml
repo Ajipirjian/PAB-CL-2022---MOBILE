@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Musisi faforit</string>
+    <string name="musisi">Musisi</string>
+    <string name="detail_musisi">Detail Musisi</string>
+    <string name="genre">genre</string>
+    <string name="album">album</string>
+    <string name="detail">Detail</string>
+</resources>
